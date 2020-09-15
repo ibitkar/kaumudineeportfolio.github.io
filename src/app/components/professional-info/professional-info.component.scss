@@ -1,0 +1,180 @@
+.container-fluid {
+  height: 800px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.third_section {
+  padding-bottom: 4%;
+}
+
+.info_btn {
+  color: black;
+  background: transparent;
+  border: 1px solid #f4623a;
+  border-radius: 5px;
+  padding: 5px 10px;
+  margin: 0 20px;
+}
+
+.first_section {
+  background: url("../../../assets/images/background-img1.jpg");
+  background-size: cover;
+  padding-top: 15%;
+}
+
+.section_title {
+  margin-left: auto !important;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px 70px;
+  height: 100px;
+  width: 600px;
+  color: white;
+}
+
+.tm-welcome-right {
+  color: white;
+  background-color: #986665;
+  padding: 80px 43px 85px;
+  height: auto;
+}
+
+.tm-welcome-title {
+  margin-bottom: 40px;
+}
+
+.tm-welcome-left {
+  padding-right: 30px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.tm-welcome-left-col {
+  display: flex;
+  align-items: center;
+}
+
+.tm-bg-white-transparent {
+  background-color: rgba(255, 255, 255, 0.8);
+  margin-top: 6%;
+}
+
+/*
+  Project section
+*/
+
+.projects_section {
+  padding-top: 30px;
+}
+
+.tm-portfolio-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 80px;
+}
+
+.tm-portfolio-name {
+  width: 300px;
+  height: 200px;
+  font-size: 1.5rem;
+  padding: 15px 50px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.about-section {
+  padding: 0px 0px 70px 0px;
+}
+
+.tm-portfolio-description {
+  width: calc(100% - 330px);
+  padding: 0px 20px;
+}
+
+.tm-portfolio-description h3 {
+  margin-bottom: 10px;
+}
+
+.tm-text-green {
+  color: #98cb00;
+}
+
+.tm-text-orange {
+  color: #cc6733;
+}
+
+.tm-text-blue {
+  color: #3398cc;
+}
+
+.tm-text-dark-gray {
+  color: #676767;
+}
+
+.tm-title-small {
+  font-size: 1.3rem;
+}
+
+p {
+  line-height: 1.8;
+}
+
+.tm-bg-green {
+  background-color: #98cb00;
+}
+
+.tm-bg-orange {
+  background-color: #cc6733;
+}
+
+.tm-bg-blue {
+  background-color: #3398cc;
+}
+
+.tm-bg-dark-gray {
+  background-color: #676767;
+}
+
+.skills_title {
+  margin: 20px 0;
+}
+
+.about-section {
+  padding: 0px 0px 70px 0px;
+}
+
+.skill-item {
+  margin-bottom: 20px;
+}
+
+.progress-title {
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.progress {
+  height: 30px;
+  border-radius: 0;
+}
+
+.progress .progress-bar {
+  background: #4fbfa8;
+}
+
+.progress .progress-bar-skill1 {
+  background: #9adacd;
+}
+
+.progress .progress-bar-skill2 {
+  background: #87d3c4;
+}
+
+.progress .progress-bar-skill3 {
+  background: #74cdba;
+}
+
+.progress .progress-bar-skill4 {
+  background: #62c6b1;
+}

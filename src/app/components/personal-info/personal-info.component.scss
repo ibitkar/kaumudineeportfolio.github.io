@@ -1,0 +1,88 @@
+.container-fluid {
+    height: 670px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+
+.info_btn {
+    color: black;
+    background: transparent;
+    border: 1px solid #f4623a;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 0 20px;
+}
+
+.first_section {
+    background: url("../../../assets/images/mini-profile-bg-02.jpg");
+    background-size: cover;
+    padding-top: 2%;
+}
+
+.info_wrapper {
+    padding-bottom: 2%;
+}
+
+.section_title {
+    margin-left: auto !important;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px 70px;
+    height: 100px;
+    width: 600px;
+    color: white;
+}
+
+.tm-welcome-right {
+    color: white;
+    background-color: #986665;
+    padding: 80px 43px 85px;
+    height: auto;
+}
+
+.tm-welcome-title {
+    margin-bottom: 40px;
+}
+
+.tm-welcome-left {
+    padding-right: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.tm-welcome-left-col {
+    display: flex;
+    align-items: center;
+}
+
+.tm-bg-white-transparent {
+    background-color: #0000007a;
+    margin-top: 6%;
+}
+
+legend {
+    color: wheat;
+    font-weight: bold;
+    font-variant: small-caps;
+    margin: 0 1%;
+    font-size: 20px;
+    width: fit-content;
+}
+
+fieldset {
+    border: 2px solid skyblue;
+    padding: 20px
+}
+
+.label {
+    font-weight: 500;
+    font-size: 18px;
+    width: 300px;
+    margin-left: 20px;
+    color: white;
+}
+
+.desc {
+    font-size: 15px;
+    color: white;
+}
